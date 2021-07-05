@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 # python_challengeHW
->>>>>>> d5b03f9ee6d5c1c018a2ce14b9bbf2859d53be0e
 # Python Homework - Py Me Up, Charlie
 
 ## Background
